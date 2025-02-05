@@ -8,7 +8,7 @@ public class LinsagramApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello, World!");
-		//SpringApplication.run(LinsagramApplication.class, args);
+		SpringApplication.run(LinsagramApplication.class, args);
 	}
 
 }
